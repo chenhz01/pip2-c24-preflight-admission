@@ -1,0 +1,23 @@
+[
+  {
+    "id": "L88",
+    "cluster": "c24 事前准入",
+    "name": "退出判据先行",
+    "dir": "L88-exit-criteria-first",
+    "loc": 32
+  },
+  {
+    "id": "L89",
+    "cluster": "c24 事前准入",
+    "name": "重放预演",
+    "dir": "L89-replay-premortem",
+    "loc": 40
+  },
+  {
+    "id": "L90",
+    "cluster": "c24 事前准入",
+    "name": "廉价试错阶梯",
+    "dir": "L90-cheap-trial-ladder",
+    "loc": 36
+  }
+]
